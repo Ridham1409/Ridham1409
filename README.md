@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcuHT6/giphy.gif" width="30px"/>
   <h1>Hi 👋, I'm Ridham Bhavnagariya</h1>
 </div>
 
