@@ -16,12 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ridham1409&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ridham1409" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -29,45 +23,31 @@
 - 🔭 I’m currently working on **[Xpeartz | Freelance Coding Agency](https://xpeartz.netlify.app/)**
 - 🌱 I’m currently learning **Flutter, Dart, & Engineering (BE)**
 - 👯 I’m looking to collaborate on **Web, App & Graphics Solutions**
-- 🤝 I’m looking for help with **Sales and Marketing for my agency**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://xpeartz.netlify.app/)**
-- 💬 Ask me about **Flutter, Graphic Design, & Esports Management**
-- 📫 How to reach me: **ridhambhavnagariya@gmail.com**
 - ⚡ Fun fact: **I organize Esports tournaments & run a dropshipping business named TrendyBocs!**
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+### 🛠 Languages and Tools
 <p align="center"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="50" height="50"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="50" height="50"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridham1409&show_icons=true&locale=en&theme=tokyonight" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridham1409&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="180" alt="langs" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridham1409&theme=tokyonight" alt="streak" />
-</div>
+### 📊 GitHub Stats
 
----
-
-<h3 align="center">🤝 Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/ridham_1404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridham_1404" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/ridham-bhavnagariya-829377306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
-<a href="https://instagram.com/ridhambhavnagariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="50" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ridham1409&show_icons=true&theme=tokyonight&hide_border=true" alt="Ridham's Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridham1409&layout=compact&theme=tokyonight&hide_border=true" alt="Ridham's Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridham1409&theme=tokyonight&hide_border=true" alt="Ridham's Streak" />
 </p>
