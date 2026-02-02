@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,36BCF7,0d1117&height=280&section=header&text=Ridham%20Bhavnagariya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20Entrepreneur&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Ridham Bhavnagariya Banner" />
 </div>
 
-<h4 align="center">📍 Surat, Gujarat, India | 🎓 Computer Engineering Student</h4>
+<br/>
 
-<p align="center">
+<h3 align="center">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Founder+of+Xpeartz;Graphic+Designer+%26+Animator;One-Stop+Digital+Partner" alt="Typing SVG" />
   </a>
-</p>
+</h3>
 
 <p align="center">
   <a href="https://xpeartz.netlify.app/" target="_blank">
@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ### 👨‍💻 About Me
@@ -33,21 +33,21 @@
 - ⚡ Fun fact: **Founder of Xpeartz | Freelance Coding Agency | Earn Money & Digital Growth!**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ### 🚀 What I Offer (Services)
 
 <table>
   <tr>
-    <td align="center"><b>🎨 Graphics Design</b></td>
-    <td align="center"><b>💻 Web Development</b></td>
-    <td align="center"><b>📱 App Development</b></td>
+    <td align="center" width="33%"><b>🎨 Graphics Design</b></td>
+    <td align="center" width="33%"><b>💻 Web Development</b></td>
+    <td align="center" width="33%"><b>📱 App Development</b></td>
   </tr>
   <tr>
-    <td>Logos, Social Media Posts, Brochures</td>
-    <td>Professional Websites, Web Apps</td>
-    <td>Custom Android/iOS Apps</td>
+    <td align="center">Logos, Social Media Posts, Brochures & Branding</td>
+    <td align="center">Professional Websites, Landing Pages & Web Apps</td>
+    <td align="center">Custom Android/iOS Apps for Business Growth</td>
   </tr>
 </table>
 
@@ -61,7 +61,28 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ridham1409" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=ridham1409&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" height="180" alt="Ridham's Stats" />
+  </a>
+  <a href="https://github.com/ridham1409" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridham1409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" height="180" alt="Ridham's Languages" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/ridham1409" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridham1409&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" alt="Ridham's Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ### 🤝 Connect with me
@@ -82,5 +103,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,36BCF7,0d1117&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,36BCF7,0d1117&height=100&section=footer" width="100%"/>
 </p>
