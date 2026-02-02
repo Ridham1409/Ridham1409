@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ridham Bhavnagariya</h1>
 <h3 align="center">🚀 Full-Stack Developer | Designer | Entrepreneur</h3>
+<h4 align="center">📍 Surat, Gujarat, India | 🎓 Computer Engineering Student</h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Founder+of+Xpeartz;Graphic+Designer+%26+Animator;Esports+Organizer;Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+%26+Dart+Developer;Founder+of+Xpeartz;Graphic+Designer+%26+Animator;One-Stop+Digital+Partner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,11 +21,20 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Xpeartz | Freelance Coding Agency](https://xpeartz.netlify.app/)**
-- 🌱 I’m currently learning **Flutter, Dart, & Engineering (BE)**
-- 👯 I’m looking to collaborate on **Web, App & Graphics Solutions**
+- 🎓 I’m currently pursuing **BE in Computer Engineering** at **C. K. Pithawala College of Engg. & Tech.** (2025 Batch)
+- 💼 I am the Founder of **[Xpeartz](https://xpeartz.netlify.app/)**, helping **Surat's local businesses** transform into digital brands.
+- 🔭 I offer a **complete digital package**: From sharp logos to complex e-commerce apps.
+- 🌱 I’m currently learning **Flutter, Dart, & Engineering concepts**.
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://xpeartz.netlify.app/)**
-- ⚡ Fun fact: **I organize Esports tournaments & run a dropshipping business named TrendyBocs!**
+- ⚡ Fun fact: **I organize Esports tournaments & run a dropshipping business!**
+
+---
+
+### 🚀 What I Offer (Services)
+
+- **🎨 Graphics Design:** Logos, Social Media Posts, Brochures
+- **💻 Web Development:** Professional Websites, Landing Pages, Web Apps
+- **📱 App Development:** Custom Android/iOS Apps for business growth
 
 ---
 
@@ -36,6 +46,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
@@ -50,4 +61,13 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridham1409&theme=tokyonight&hide_border=true" alt="Ridham's Streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="center">
+<a href="https://twitter.com/ridham_1404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridham_1404" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/ridham-bhavnagariya-829377306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" /></a>
+<a href="mailto:ridhambhavnagariya@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="40" /></a>
 </p>
