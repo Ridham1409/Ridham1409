@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>Hi 👋, I'm Ridham Bhavnagariya</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,36BCF7,0d1117&height=280&section=header&text=Ridham%20Bhavnagariya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20Entrepreneur&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<h3 align="center">🚀 Full-Stack Developer | Designer | Entrepreneur</h3>
 <h4 align="center">📍 Surat, Gujarat, India | 🎓 Computer Engineering Student</h4>
 
 <p align="center">
@@ -54,7 +53,7 @@
 
 <br/>
 
-### 🛠 Languages and Tools (Modern & Colorful)
+### 🛠 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,python,figma,android,html,css,js,git,vscode&theme=dark" />
@@ -83,6 +82,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,36BCF7,0d1117&height=120&section=footer" width="100%"/>
 </p>
-
