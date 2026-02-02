@@ -87,8 +87,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ridham1409&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="ridham1409" />
-  </a>
-</p>
