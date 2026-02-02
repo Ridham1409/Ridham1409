@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Ridham Bhavnagariya Banner" />
+  <img src="https://i.ibb.co/YgnY0xM/image.png" width="100%" alt="Ridham Bhavnagariya Banner" />
 </div>
 
 <br/>
