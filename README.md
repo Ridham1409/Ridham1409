@@ -32,7 +32,7 @@
 - 🔭 I offer a **complete digital package**: From sharp logos to complex e-commerce apps.
 - 🌱 I’m currently learning **Flutter, Dart, & Engineering concepts**.
 - 👨‍💻 All of my projects are available at <a href="https://xpeartz.netlify.app/" target="_blank">**My Portfolio**</a>
-- ⚡ Fun fact: **I organize Esports tournaments & run a dropshipping business!**
+- ⚡ Fun fact: **Founder of Xpeartz | Freelance Coding Agency | Earn Money & Digital Growth!**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
@@ -61,27 +61,6 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,python,figma,android,html,css,js,git,vscode&theme=dark" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ridham1409" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ridham1409&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" height="180" alt="Ridham's Stats" />
-  </a>
-  <a href="https://github.com/ridham1409" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridham1409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" height="180" alt="Ridham's Languages" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/ridham1409" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridham1409&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" alt="Ridham's Streak" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
