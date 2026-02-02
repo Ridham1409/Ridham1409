@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/YgnY0xM/image.png" width="100%" alt="Ridham Bhavnagariya Banner" />
+  <img src="YOUR_BANNER_LINK_HERE" width="100%" alt="Ridham Bhavnagariya Banner" />
 </div>
 
 <br/>
@@ -12,16 +12,14 @@
 
 <p align="center">
   <a href="https://xpeartz.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Agency-Xpeartz-blue?style=for-the-badge&logo=react&logoColor=white" height="30" alt="Xpeartz" />
+    <img src="https://img.shields.io/badge/Agency-Xpeartz-blue?style=for-the-badge&logo=react&logoColor=white" height="28" alt="Xpeartz" />
   </a>
   <a href="https://twitter.com/ridham_1404" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow_Me-black?style=for-the-badge&logo=x&logoColor=white" height="30" alt="ridham_1404" />
+    <img src="https://img.shields.io/badge/X-Follow_Me-black?style=for-the-badge&logo=x&logoColor=white" height="28" alt="ridham_1404" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+<br/>
 
 ### 👨‍💻 About Me
 
@@ -33,7 +31,7 @@
 - ⚡ Fun fact: **Founder of Xpeartz | Freelance Coding Agency | Earn Money & Digital Growth!**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.gif" width="100%">
 </div>
 
 ### 🚀 What I Offer (Services)
@@ -61,28 +59,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ridham1409" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ridham1409&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" height="180" alt="Ridham's Stats" />
-  </a>
-  <a href="https://github.com/ridham1409" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridham1409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" height="180" alt="Ridham's Languages" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/ridham1409" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridham1409&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" alt="Ridham's Streak" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.gif" width="100%">
 </div>
 
 ### 🤝 Connect with me
@@ -102,6 +79,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,36BCF7,0d1117&height=100&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0d1117,36BCF7&height=100&section=footer" width="100%"/>
+</div>
