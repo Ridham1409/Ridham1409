@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/nsmG3w0q" width="100%" alt="Ridham Bhavnagariya Banner" />
+  <a href="https://ibb.co/nsmG3w0q"><img src="https://i.ibb.co/Y7QCDNW4/1773486933683.jpg" alt="1773486933683" border="0"></a>
 </div>
 
 <br/>
