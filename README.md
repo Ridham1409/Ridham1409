@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://xpeartz.netlify.app/" target="_blank">
+  <a href="https://xpeartz.com/" target="_blank">
     <img src="https://img.shields.io/badge/Agency-Xpeartz-blue?style=for-the-badge&logo=react&logoColor=white" height="28" alt="Xpeartz" />
   </a>
   <a href="https://twitter.com/ridham_1404" target="_blank">
